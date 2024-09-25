@@ -1,6 +1,15 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Pranjal Goyal</h1>
+<h3 align="center">A passionate programmer of india and i am also learn about hacking stuff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalgoyal24&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalgoyal24" /> </p>
+
+- 🌱 I’m currently learning **C programming, Python, DSA ,DAA, Oracle SQL, Linux**
+
+- 💬 Ask me about **problem solving , Real world algorithm**
+
+- 📫 How to reach me **Pranjalgoyal2436@gmail.com**
+
+- ⚡ Fun fact **I am trying to learn always new thing about real world problem that can be solve by using programming and design algorithm**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
