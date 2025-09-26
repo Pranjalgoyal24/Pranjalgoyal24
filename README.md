@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **problem solving , Real world algorithm**
 
-- 📫 How to reach me **Pranjalgoyal2436@gmail.com**
+- 📫 How to reach me **pranjalgoyal2436@gmail.com**
 
 - ⚡ Fun fact **I am trying to learn always new thing about real world problem that can be solve by using programming and design algorithm**
 
